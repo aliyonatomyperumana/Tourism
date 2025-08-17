@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    margin: 80px;
+}
+.s2-21{
+    text-align: center;
+    margin: 2%;
+    color: green;
+    text-shadow: 2px 4px 6px grey;
+
+}
